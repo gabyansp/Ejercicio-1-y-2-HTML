@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 table{
     text-align: center;
     border: 3px solid grey;
@@ -8,3 +9,15 @@ th, td{
     text-align: center;
     border: 2px solid bisque;
 }
+=======
+table{
+    text-align: center;
+    border: 3px solid grey;
+    padding: 7px;
+
+}
+th, td{
+    text-align: center;
+    border: 2px solid bisque;
+}
+>>>>>>> bb476783a052e75112abdecac224484cf415405c
